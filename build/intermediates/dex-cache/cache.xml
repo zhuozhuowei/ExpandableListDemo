@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\testwork\aa\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\testwork\aa\build\intermediates\pre-dexed\debug\gson-2.3.1-b9dc4aab2d1b6eced69f0be58d40c48b8d038fb6.jar" />
+    </item>
+    <item
+        jar="G:\oschina\expandablelistviewdemo\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\oschina\expandablelistviewdemo\build\intermediates\pre-dexed\debug\gson-2.3.1-46d9835e3aa831e78bbddf1ef7c9362c0dfd53a6.jar" />
+    </item>
+    <item
+        jar="G:\oschina\expandablelistviewdemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="G:\oschina\expandablelistviewdemo\build\intermediates\pre-dexed\debug\android-support-v4-d768908d9d05caf1b75917a8aa0d47ba45471d6e.jar" />
+    </item>
+    <item
+        jar="G:\testwork\aa\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="G:\testwork\aa\build\intermediates\pre-dexed\debug\android-support-v4-972f27110cfd0f536689d5ce78e9f46c2fe127ee.jar" />
+    </item>
+
+</items>
